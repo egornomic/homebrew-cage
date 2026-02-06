@@ -1,8 +1,8 @@
 class Cage < Formula
   desc "Opinionated devcontainer launcher with a ready-to-go template"
   homepage "https://github.com/egornomic/cage"
-  url "https://github.com/egornomic/cage/archive/refs/tags/v0.5.0.tar.gz"
-  sha256 "4f620e89eca7119b0e2501cef549e768dff10e4b940b1492c5ec08aa5f73ebbe"
+  url "https://github.com/egornomic/cage/archive/refs/tags/v0.5.1.tar.gz"
+  sha256 "959a0977150072bebfa7e58b1a6d07d134d8fc915d3502dd2ef13924f44a1fcf"
 
   def install
     bin.install "cage"
