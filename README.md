@@ -1,10 +1,9 @@
-# homebrew-cage
+# homebrew-cage (moved)
 
-Homebrew tap for `cage`.
+The `cage` formula has moved to the shared [`egornomic/tap`](https://github.com/egornomic/homebrew-tap) Homebrew tap.
 
 ## Install
 
 ```bash
-brew tap egornomic/cage
-brew install cage
+brew install egornomic/tap/cage
 ```
